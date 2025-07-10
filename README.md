@@ -9,7 +9,7 @@ This study explores the use of deep learning to analyze genetic data and predict
 
 # How To Run:
 To successfully run this code on your own computer, it's important to ensure that all required Python libraries are properly installed and compatible with your system. The core libraries include:
-  - **pandas**, used for data manipulation and reading CSV files
+  - **pandas** -> used for data manipulation and reading CSV files
   - **numpy**, provides numerical operations and array handling
   - **h5py**, necessary for reading .h5 files that contain large-scale data (genotype dataset)
   - **matplotlib.pyplot**, visualizing training performance
