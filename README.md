@@ -10,9 +10,9 @@ This study explores the use of deep learning to analyze genetic data and predict
 # How To Run:
 To successfully run this code on your own computer, it's important to ensure that all required Python libraries are properly installed and compatible with your system. The core libraries include:
   - **pandas** -> used for data manipulation and reading CSV files
-  - **numpy**, provides numerical operations and array handling
-  - **h5py**, necessary for reading .h5 files that contain large-scale data (genotype dataset)
-  - **matplotlib.pyplot**, visualizing training performance
+  - **numpy** -> provides numerical operations and array handling
+  - **h5py** -> necessary for reading .h5 files that contain large-scale data (genotype dataset)
+  - **matplotlib.pyplot** -> visualizing training performance
 
 The machine learning functionality relies heavily on **TensorFlow** and **Keras**. Specifically, you need to install a version of tensorflow that includes the integrated Keras API (**tensorflow>=2.10** works well). This script makes use of both high level Sequential and functional Keras APIs to define the CNN model. 
 
