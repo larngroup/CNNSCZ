@@ -24,7 +24,7 @@ Layers, such as the following, are all part of the tensorflow.keras.layers modul
   - Dropout
   - Flatten
 
-Additionally, callbacks, such as the following, are all part  of tensorflow.keras.callbacks module and are used to monitor training and control learning rate and overfitting: 
+Callbacks, such as the following, are all part of tensorflow.keras.callbacks module and are used to monitor training and control learning rate and overfitting: 
   - EarlyStopping
   - ModelCheckpoint
   - ReduceLROnPlateau
