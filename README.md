@@ -1,10 +1,11 @@
 # CNNSCZ
 # CNN Models in Prediction of Feno Type from Genotype
-
 This study explores the use of deep learning to analyze genetic data and predict phenotypic traits associated with schizophrenia, a complex psychiatric disorder with a strong hereditary component yet incomplete genetic characterization. We applied Convolutional Neural Networks models to a large-scale case-control exome sequencing dataset from the Swedish population to identify genetic patterns linked to schizophrenia. To enhance model performance and reduce overfitting, we employed advanced optimization techniques, including dropout layers, learning rate scheduling, batch normalization, and early stopping. Following systematic refinements in data preprocessing, model architecture, and hyperparameter tuning, the final model achieved an accuracy of 80 %. These results demonstrate the potential of deep learning approaches to uncover intricate genotype-phenotype relationships and support their future integration into precision medicine and genetic diagnostics for psychiatric disorders such as schizophrenia.
+
 
 # Model Architecture:
 ![Model Architecture New](https://github.com/user-attachments/assets/7c8e8f7a-8336-4a02-b8e9-93cf48c0a74b)
+
 
 # How To Run:
 To successfully run this code on your own computer, it's important to ensure that all required Python libraries are properly installed and compatible with your system. The core libraries include:
